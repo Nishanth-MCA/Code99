@@ -14,7 +14,7 @@ export default function Home() {
           <div className="mx-2 my-3 ">
             <div className='text-center'>
               <h1 className="mt-5 text-xl-center text-xl-start" >Hello I'm Nishanth</h1>
-              <h4 className="">Full stack developer in Python</h4>
+              <h4 className="">React js developer</h4>
             </div>
 
             <div className="container mt-5">
